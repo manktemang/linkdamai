@@ -1,0 +1,2 @@
+# linkdamai
+js safelink
